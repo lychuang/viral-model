@@ -1,0 +1,6 @@
+https://realpython.com/python-web-applications/
+https://hackernoon.com/build-your-first-local-server-and-web-app-with-node-js-5a5d9e00aff0
+https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4
+https://realpython.com/python-data-visualization-bokeh/
+https://towardsdatascience.com/embedding-machine-learning-models-to-web-apps-part-1-6ab7b55ee428
+
